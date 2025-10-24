@@ -1,4 +1,4 @@
-// bdc-nav.js — Big Dogs Don't Cry desktop navigation bar
+// bdc-nav.js — Big Dogs Don't Cry desktop navigation bar test
 (function(){
   class BdcNav extends HTMLElement {
     constructor(){
